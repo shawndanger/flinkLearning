@@ -1,7 +1,10 @@
 package com.deng.bigdata.flink.fraud_detection;
 
 import com.deng.bigdata.flink.fraud_detection.config.Config;
+import com.deng.bigdata.flink.fraud_detection.config.Parameters;
 import org.apache.flink.api.java.utils.ParameterTool;
+
+import static com.deng.bigdata.flink.fraud_detection.config.Parameters.*;
 
 /**
  * Hello world!
